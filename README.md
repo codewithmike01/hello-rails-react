@@ -1,6 +1,6 @@
 # Rails project: Hello rails react
 
-> In this project, i will be creating a blog app using ruby on rails, this app can view users, posts,comments and likes.
+> In this project, i set up a rials api app with a react front end
 
 ## Video
 
