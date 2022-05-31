@@ -36,6 +36,7 @@
     "vendor/cache/**/*",
     "app/assets/stylesheets/**/*.scss",
     "function",
-    "if"
+    "if",
+    "node_modules/"
   ]
 }
