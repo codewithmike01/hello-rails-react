@@ -1,8 +1,10 @@
 # Rails project: Hello rails react
 
-> In this project, i will be creating a blog app using ruby on rails, this app can view users, posts,comments and likes.
+> In this project, i set up a rials api app with a react front end
 
-## Link to video(not avialable yet)
+## Video
+
+https://user-images.githubusercontent.com/58771507/171132704-e0dbdcf3-43aa-4622-8f07-41f4b1a93c01.mp4
 
 ## Built With
 
@@ -26,11 +28,11 @@ To get a local copy up and running follow these simple example steps.
 - git clone the project
 
 ```
-git clone https://github.com/Ginohmk/happy_blog.git
+git clone https://github.com/Ginohmk/hello-rails-react.git
 ```
 
 ```
-cd happy_blog
+cd hello-rails-react
 ```
 
 - To run the app
@@ -43,16 +45,14 @@ bundle install
 rails s
 ```
 
+```
+npm install
+```
+
 - Paste in web your broswer
 
 ```
  http://localhost:3000/
-```
-
-- To test app
-
-```
- rails exec rspec -f d
 ```
 
 👤 **Kanu Mike**
